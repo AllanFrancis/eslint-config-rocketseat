@@ -1,12 +1,12 @@
 {
-  "name": "@rocketseat/eslint-config",
+  "name": "@tatamepro/eslint-config",
   "version": "2.2.2",
   "private": false,
-  "description": "ESLint configuration used by Rocketseat.",
+  "description": "ESLint configuration used by TatamePro.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "rocketseat/eslint-config-rocketseat"
+    "url": "tatamepro/eslint-config-tatamepro"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
